@@ -1,6 +1,6 @@
 {
   "name": "csv-to-json",
-  "homepage": "https://garimakapila.github.io/csv-to-json",
+  "homepage": "http://garimakapila.github.io/csv-to-json",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
