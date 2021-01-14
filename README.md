@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# CSV to JSON Converter
 
 Paste a CSV [here](https://garimakapila.github.io/csv-to-json/) and convert it to a JSON
 
